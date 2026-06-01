@@ -1,5 +1,3 @@
-# Vromonkonna - Empowering Solo Travel For Women
-
 ## 📝 Project Overview
 
 Vromonkonna is a comprehensive travel management system designed to provide female travelers with a secure and seamless experience. The platform bridges the gap between users, hotels, and administrators by offering personalized travel packages, blogs, and booking functionalities. With its easy-to-navigate interface and scalable architecture, the system ensures convenience for travelers, flexibility for hotel representatives, and control for administrators.
